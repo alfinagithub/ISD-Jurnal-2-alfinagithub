@@ -20,7 +20,7 @@ public class Main {
 
         System.out.println("Isi data ATK:");
         items.removeData("A002");
-        items1.removeData("C004");
+        items1.removeData("C005");
         items.display();
 
         System.out.println("Isi data Bag:");

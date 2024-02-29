@@ -50,7 +50,7 @@ public class ATK implements Comparable<ATK> {
     }
 
     @Override
-    public int compareTo(ATK o) {
+    public int compareTo(ATK o){
         return this.kode.compareTo(o.getKode());
     }
 
